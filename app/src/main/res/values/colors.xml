@@ -3,4 +3,13 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="textBottomColor">#3700B3</color>
+    <color name="ripple_effect">#aa5353</color>
+    <color name="btn_sign_up">#ed7171</color>
+    <color name="btn_sign_up_stroke">#d66060</color>
+    <color name="btn_sign_in">#e27a5d</color>
+    <color name="btn_sign_in_stroke">#d16e53</color>
+
+    <color name="field_color">#c9d1cb</color>
+    <color name="field_text">#141414</color>
 </resources>

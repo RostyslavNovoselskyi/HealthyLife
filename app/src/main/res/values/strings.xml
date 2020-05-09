@@ -9,4 +9,19 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="app_in_name">HealthyLife</string>
+    <string name="app_name_after">Sign up</string>
+    <string name="text_bottom">Sign in</string>
+
+    <string name="btnSignIn">Sign in</string>
+    <string name="btnSignUp">Sign up</string>
+
+    <string name="emailHint">Email</string>
+    <string name="passHint">Password</string>
+    <string name="nameHint">Enter your name</string>
+    <string name="phoneHint">Phone number</string>
+
+    <string name="email_input_error">Invalid email!</string>
+
 </resources>
